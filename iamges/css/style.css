@@ -1,0 +1,15 @@
+table{
+ background-color:brown;   
+}
+th{
+color: aqua;
+font-size: 25px;
+text-transform: capitalize;
+text-align: center;
+}
+td{
+color: aqua;
+font-size: 20px;
+text-transform: capitalize;
+text-align: center;
+}
